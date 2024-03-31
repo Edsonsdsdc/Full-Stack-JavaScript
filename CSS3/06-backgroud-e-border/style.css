@@ -1,0 +1,41 @@
+header{
+    background-color: rgba(70, 101, 83, 0.433) ;
+    color: aqua;
+}
+
+body{
+    /*background-color: hsla(107, 82%, 45%, 0.488);*/
+    /*background-repeat: no-repeat;*/
+    background-image: url(https://img.freepik.com/fotos-gratis/foto-de-grande-angular-de-uma-unica-arvore-crescendo-sob-um-ceu-nublado-durante-um-por-do-sol-cercado-por-grama_181624-22807.jpg?w=996&t=st=1710692639~exp=1710693239~hmac=173bbcd501a45a882e39c14481453f5d9dba416ffb26b2c7e49642042475739c);
+    background-size: cover;
+}
+
+main{
+    background-color: antiquewhite;
+    border: 3px solid;
+    border-radius: 2px;
+    border-color: rgb(0, 0, 0);
+}
+
+.box1{
+    background-color: rgb(144, 92, 23);
+    height: 64px;
+    width: 320px;
+    border: 1px dashed;
+    border-color: rgb(0, 0, 0);
+}
+
+.box2{
+    height: 64px;
+    width: 320px;
+    background-image:linear-gradient(to left, rgb(250, 250, 250), rgb(110, 7, 200))
+}
+
+.box3{
+    background-color: aqua;
+    border: solid rgb(95, 53, 53);;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 64px;
+    width: 320px;
+}

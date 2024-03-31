@@ -1,0 +1,14 @@
+/*inline: não quebra de linha, largura mínima, aceita margem e prenchimento horizontal*/
+.inlinea{
+    display: inline;
+
+}
+
+/*block: quebra da linha, largura máxima, aceita margem e preenchimento vertical*/
+.block{
+    display: block;
+}   
+
+.inline-block{
+    display: inline-block;
+}

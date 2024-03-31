@@ -1,0 +1,22 @@
+header{
+    background-image: linear-gradient(to left,rgb(49, 197, 16), rgb(20, 158, 200));
+    color: white;
+}
+
+body{
+
+    background-color: aqua;
+    background-image: url(https://a.cdn-hotels.com/gdcs/production55/d458/fc74de3b-0bd1-4284-b53b-be71ba136901.jpg?impolicy=fcrop&w=800&h=533&q=medium);
+    background-size: cover;
+}
+
+main{
+    background-color: blanchedalmond;
+    width: 96em;
+}
+
+footer{
+    background-color: blanchedalmond;
+    width: 96em;
+    color: w;
+}

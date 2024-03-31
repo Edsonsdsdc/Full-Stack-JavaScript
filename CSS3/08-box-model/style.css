@@ -1,0 +1,17 @@
+.box{
+    background-color: aqua;
+    border: 12px solid;
+}
+
+.box{
+    margin-top: 12px;
+    margin-right: 22px;
+    margin-bottom: 12px;
+    margin-left: 22px;
+
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    
+}

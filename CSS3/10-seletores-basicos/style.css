@@ -1,0 +1,63 @@
+/* selector universal */
+
+* {
+   
+   margin: 0;
+   padding: 0;
+}
+
+/* seletor de elementos aninhados */
+header, footer{
+    background-image : linear-gradient(to left, rgb(73, 88, 137), rgb(108, 27, 133)) ;
+    
+
+}
+
+/* seletor de elemetos aninhados */
+nav a{
+
+    background-color: rgb(129, 110, 146);
+
+}
+
+/* seletor de filhos */
+nav > a {
+    display: block;
+    color: yellow;
+    padding: 20px;
+
+}
+
+/* seletor de classes */
+.verde{
+    color: rgb(31, 173, 31);
+}
+
+.laranja{
+    color: rgb(241, 162, 16);
+}
+
+/* combinação de seletores */
+#secao-principal{
+    padding: 20px;
+    text-align:center;
+}
+
+#secao-principal > *{
+    margin-top: 20px;
+}
+
+/* seletore de sequência */
+input + input{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* seletores de propriedade */
+input[type="password"] {
+    background-color: blue;
+}
+
+input[type="text"] {
+    background-color: blueviolet;
+}

@@ -1,0 +1,56 @@
+#Mario{
+   background-image: url(https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/04/super-mario-bros-se-torna-maior-adaptac%CC%A7a%CC%83o-de-jogo-para-cinema.jpg?w=420&h=240&crop=1); 
+   border: 5px solid;
+   height: 240px;
+   width: 340px;
+   background-repeat: none;
+   background-color: rgba(96, 183, 154, 0.552);
+ 
+  
+}
+  
+
+#Sonic{
+    border: 5px solid;
+    height: 240px;
+    width: 350px;
+    background-repeat: cover;
+    margin-left: 25em;
+    margin-top: -16em;
+    
+}
+
+#Zelda{
+    border: 5px solid;
+    height: 240px;
+    width: 340px;
+    background-repeat: cover;
+    margin-top: 20px;
+}
+
+
+#Kong{
+    border: 5px solid;
+    height: 240px;
+    width: 340px;
+    background-repeat: cover;
+    margin-left: 25em;
+    margin-top: -15.9em
+}
+
+#Galaxy{
+    border: 5px solid;
+    height: 240px;
+    width: 340px;
+    background-repeat: cover;
+    margin-left: 50em;
+    margin-top: -515px;
+    
+    
+}
+
+span{
+    display: block;
+    
+    
+}
