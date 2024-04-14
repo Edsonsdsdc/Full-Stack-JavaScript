@@ -9,6 +9,4 @@ if (velocidadeVeiculo1 > velocidadeVeiculo2) {
     alert(nomeDoVeículo2 + " é mais rapido")
 } else if (velocidadeVeiculo1 >= velocidadeVeiculo2) {
     alert("velocidade dos veículos é igual")
-} else if (velocidadeVeiculo2 >= velocidadeVeiculo1) {
-    alert()
 }
