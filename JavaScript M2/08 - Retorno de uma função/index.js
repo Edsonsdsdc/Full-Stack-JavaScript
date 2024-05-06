@@ -18,4 +18,8 @@ function criaProduto (nome,  preco) {
 
 console.log(criaProduto("Notebook AMD", 2000))
 
-function area
+function area(base, altura) {
+    return base * altura
+}
+
+console.log(area(55, 34))
